@@ -1,5 +1,4 @@
-# GeoFinder Hotels Project
-### Client Part
+# GeoFinder Hotels Project - Client Part
 ### Multiplatform Applications Development Project
 **Author** : Jose Antonio Duarte Pérez (DainWs) <br/>
 ### Description
