@@ -4,3 +4,7 @@
 ### Description
 An application that facilitates the search for the hotels closest to your real location.
 
+**Folders**
+- Client Project : the android project for client APP.
+- Management Project : the android project for Managers and Admins APP.
+- Zips : All project compressed
